@@ -1,3 +1,4 @@
+# Differential Equations for Data Science and Analytics
 # Project Goal
 * This repository explores how Differential Equations can be applied to real-world business, scientific, and data analytics problems.
 * The goal is to bridge the gap between mathematical theory learned in class and practical applications in data science projects.
